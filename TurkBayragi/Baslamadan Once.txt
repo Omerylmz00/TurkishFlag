@@ -1,0 +1,15 @@
+Merhaba arkadaslar, 
+
+Bu proje visual studio 2010 editorunde gerceklestirilmistir. Bu projeyi acabilmek icin visual
+studio 2010 ve uzeri herhangi bir visual studio editoru kullanilabilir. 
+
+Kod ekranini acmak icin TurkBayragi.sln acilmalidir. 
+
+Calisan fakat tamamlanmamis kod exe yazilimi gormek icin 
+indirdiginizyer\TurkBayragi\TurkBayragi\bin\Debug icerisine girerek TurkBayragi.Exe ye 
+cift tiklayin. 
+
+Kodlama icerisinde hangi kisimlarin eksik hangi kisimlarin kodlama ihtiyaci oldugu yorum 
+satirlari kullanilarak belirtilmistir. 
+
+Basarilar.

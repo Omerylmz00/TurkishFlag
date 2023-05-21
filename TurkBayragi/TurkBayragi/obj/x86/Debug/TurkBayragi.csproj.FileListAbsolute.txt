@@ -1,0 +1,16 @@
+c:\users\arda\documents\visual studio 2010\Projects\TurkBayragi\TurkBayragi\bin\Debug\TurkBayragi.exe
+c:\users\arda\documents\visual studio 2010\Projects\TurkBayragi\TurkBayragi\bin\Debug\TurkBayragi.pdb
+c:\users\arda\documents\visual studio 2010\Projects\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.Form1.resources
+c:\users\arda\documents\visual studio 2010\Projects\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.Properties.Resources.resources
+c:\users\arda\documents\visual studio 2010\Projects\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.csproj.GenerateResource.Cache
+c:\users\arda\documents\visual studio 2010\Projects\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.exe
+c:\users\arda\documents\visual studio 2010\Projects\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.pdb
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.exe
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.pdb
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\bin\Debug\TurkBayragi.exe
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\bin\Debug\TurkBayragi.pdb
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.csproj.AssemblyReference.cache
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.Form1.resources
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.Properties.Resources.resources
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.csproj.GenerateResource.cache
+C:\Users\omrfr\Desktop\TurkBayragi\TurkBayragi\obj\x86\Debug\TurkBayragi.csproj.CoreCompileInputs.cache
